@@ -10,4 +10,7 @@ l = [1,2,3,4,5,6,7]
 l1 = l[:-1]
 print(l1)
 
+for i in range(5):
+    print(i)
+
 
